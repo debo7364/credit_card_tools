@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+New HUB Cloud Training docs page (#8174)
